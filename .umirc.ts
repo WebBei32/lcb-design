@@ -33,11 +33,11 @@ export default defineConfig({
       children: [
         {
           title: 'CSDN',
-          path: 'https://blog.csdn.net/CarrreyYan_979292?type=blog',
+          path: 'https://blog.csdn.net/Webbei?spm=1000.2115.3001.5343',
         },
         {
           title: '掘金',
-          path: 'https://juejin.cn/user/1785262616087192',
+          path: 'https://juejin.cn/user/946011338179224',
         },
       ],
     },
