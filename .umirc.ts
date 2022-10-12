@@ -43,7 +43,7 @@ export default defineConfig({
     },
     {
       title: 'GitHub',
-      path: 'https://github.com/yq979292',
+      path: 'https://github.com/WebBei32?tab=repositories',
     },
   ],
   // styles: [style],
